@@ -2,19 +2,84 @@
 <div class="bg-white py-6 sm:py-8 lg:py-12">
     <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
         <div class="mb-10 md:mb-16">
-            <h2 class="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-4 md:mb-6">SUB</h2>
-            <p class="max-w-screen-md text-gray-500 md:text-lg text-center mx-auto">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated.</p>
+            <h2 class="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-4 md:mb-6">半島は日本の台所</h2>
+            <!--<p class="max-w-screen-md text-gray-500 md:text-lg text-center mx-auto">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated.</p>-->
+        <div class="max-w-screen-lg px-4 md:px-8 mx-auto">
+        <div class="text-gray-800 text-lg font-semibold mb-3">Description</div>
+            <p class="text-gray-500">
+            日本の半島を紹介するWebメディア「半島は日本の台所」<br>
+
+            This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated.
+            </p>
+        </div>
+        </div>
         </div>
 
-        <div class="bg-white py-6 sm:py-8 lg:py-12">
-  <div class="max-w-screen-lg px-4 md:px-8 mx-auto">
-    <div class="grid md:grid-cols-2 gap-8">
-      <!-- images - start -->
-      <div class="space-y-4">
-        <div class="bg-gray-100 rounded-lg overflow-hidden relative">
-          <img src="https://images.unsplash.com/flagged/photo-1571366992942-be878c7b10c0?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full object-cover object-center" />
+<div class="max-w-screen-lg px-4 md:px-8 mx-auto">
+    <table class="table-auto text-left w-full">
+    <thead>
+        <tr>
+            <th class="border px-4 py-2">Title</th>
+            <td class="border px-4 py-2">半島は日本の台所</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class="border px-4 py-2">Cliant</th>
+            <td class="border px-4 py-2">光文社様</td>
+        </tr>
+        <tr>
+            <th class="border px-4 py-2">Link</th>
+            <td class="border px-4 py-2">https://japan-hanto.com</td>
+        </tr>
+        <tr>
+            <th class="border px-4 py-2">Scale</th>
+            <td class="border px-4 py-2">3,000,000~</td>
+        </tr>
+        <tr>
+            <th class="border px-4 py-2">in charge of</th>
+            <td class="border px-4 py-2">
+            Project management, Site design, Site cording, Function development
+            </td>
+        </tr>
+        <tr>
+            <th class="border px-4 py-2">Details</th>
+            <td class="border px-4 py-2">PHP, HTML, CSS, WordPress, AWS</td>
+        </tr>
+        </tbody>
+    </table>
+    </div>
 
-          <span class="bg-red-500 text-white text-sm tracking-wider uppercase rounded-br-lg absolute left-0 top-0 px-3 py-1.5">sale</span>
+
+    <div class="bg-white py-6 sm:py-8 lg:py-12">
+    <div class="max-w-screen-lg px-4 md:px-8 mx-auto">
+    <div class="overflow-hidden mb-5 shadow-lg">
+        <img src="~/assets/projects/hanto.jpg" loading="lazy" alt="Photo by Fakurian Design">
+    </div>
+
+        <div class="grid md:grid-cols-2 gap-8">
+        <div class="space-y-4">
+        <div class="bg-gray-100 overflow-hidden shadow-lg">
+            <img src="~/assets/projects/hanto2.jpg" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full object-cover object-center" />
+        </div>
+      </div>
+        <div class="">
+        <div class="bg-gray-100 overflow-hidden shadow-lg">
+            <img src="~/assets/projects/hanto3.jpg" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full object-cover object-center" />
+        </div>
+
+      </div>
+        </div>
+</div>
+
+
+    <div class="bg-white py-6 sm:py-8 lg:py-12">
+    <div class="max-w-screen-lg px-4 md:px-8 mx-auto">
+    <div class="grid md:grid-cols-2 gap-8">
+    <!-- images - start -->
+    <div class="space-y-4">
+        <div class="bg-gray-100 rounded-lg overflow-hidden relative">
+            <img src="https://images.unsplash.com/flagged/photo-1571366992942-be878c7b10c0?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full object-cover object-center" />
         </div>
 
         <div class="grid grid-cols-2 gap-4">

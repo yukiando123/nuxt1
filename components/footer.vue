@@ -133,7 +133,7 @@
       <!-- nav - end -->
     </div>
 
-    <div class="text-gray-400 text-sm text-center border-t py-8">© 2022 - me</div>
+    <div class="text-gray-400 text-sm text-center border-t py-8">© 2022 - Yuki Ando</div>
   </footer>
 </div>
 </template>
