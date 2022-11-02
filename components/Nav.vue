@@ -14,16 +14,16 @@
 
       <!-- nav - start -->
       <nav class="hidden lg:flex gap-12">
-        <router-link to="/" class="text-gray-600 hover:text-teal-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-teal-500" exact>All</router-link>
-        <router-link to="/webdesign" class="text-gray-600 hover:text-teal-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-teal-500">Web Design</router-link>
-        <router-link to="/logo" class="text-gray-600 hover:text-teal-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-teal-500">Logo</router-link>
-        <router-link to="/graphic" class="text-gray-600 hover:text-teal-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-teal-500">Graphic</router-link>
-        <router-link to="/cording" class="text-gray-600 hover:text-teal-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-teal-500">Cording</router-link>
+        <nuxt-link to="/" class="text-gray-600 hover:text-indigo-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-indigo-500" exact>All</nuxt-link>
+        <nuxt-link to="/webdesign" class="text-gray-600 hover:text-indigo-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-indigo-500">Web Design</nuxt-link>
+        <nuxt-link to="/logo" class="text-gray-600 hover:text-indigo-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-indigo-500">Logo</nuxt-link>
+        <nuxt-link to="/graphic" class="text-gray-600 hover:text-indigo-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-indigo-500">Graphic</nuxt-link>
+        <nuxt-link to="/cording" class="text-gray-600 hover:text-indigo-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-indigo-500">Cording</nuxt-link>
       </nav>
       <!-- nav - end -->
 
       <!-- buttons - start -->
-      <router-link to="/contact" class="hidden lg:inline-block bg-gray-200 hover:bg-gray-300 focus-visible:ring ring-indigo-300 text-gray-500 active:text-gray-700 text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Contact</router-link>
+      <nuxt-link to="/contact" class="hidden lg:inline-block bg-gray-200 hover:bg-gray-300 focus-visible:ring ring-indigo-300 text-gray-500 active:text-gray-700 text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Contact</nuxt-link>
 
       <button type="button" class="inline-flex items-center lg:hidden bg-gray-200 hover:bg-gray-300 focus-visible:ring ring-indigo-300 text-gray-500 active:text-gray-700 text-sm md:text-base font-semibold rounded-lg gap-2 px-2.5 py-2">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 20 20" fill="currentColor">
@@ -36,18 +36,20 @@
     </header>
 
     <section class="min-h-96 flex justify-center items-center flex-1 shrink-0 bg-gray-100 overflow-hidden shadow-lg rounded-lg relative py-16 md:py-20 xl:py-48">
+
+    <img src="~/assets/your_image.jpg" loading="lazy" alt="Photo by Fakurian Design" class="w-full h-full object-cover object-center absolute inset-0" />
       <!-- image - start -->
-      <img src="https://images.unsplash.com/photo-1618004652321-13a63e576b80?auto=format&q=75&fit=crop&w=1500" loading="lazy" alt="Photo by Fakurian Design" class="w-full h-full object-cover object-center absolute inset-0" />
+      <!-- <img src="https://images.unsplash.com/photo-1618004652321-13a63e576b80?auto=format&q=75&fit=crop&w=1500" loading="lazy" alt="Photo by Fakurian Design" class="w-full h-full object-cover object-center absolute inset-0" />-->
       <!-- image - end -->
 
       <!-- overlay - start -->
-      <div class="bg-indigo-500 mix-blend-multiply absolute inset-0"></div>
+      <div class="mix-blend-multiply absolute inset-0"></div>
       <!-- overlay - end -->
 
       <!-- text start -->
       <div class="sm:max-w-xl flex flex-col items-center relative p-4">
-        <p class="text-indigo-200 text-lg sm:text-xl text-center mb-4 md:mb-8">Very proud to introduce</p>
-        <h1 class="text-white text-4xl sm:text-5xl md:text-6xl font-bold text-center mb-8 md:mb-12">Revolutionary way to build the web</h1>
+        <p class="text-indigo-500 text-lg sm:text-xl text-center mb-4 md:mb-8">Thank you for visiting</p>
+        <h1 class="text-white text-3xl sm:text-4xl md:text-5xl font-bold text-center mb-8 md:mb-12">This is the site of a project I was involved in.</h1>
 
         <div class="w-full flex flex-col sm:flex-row sm:justify-center gap-2.5">
           <a href="#" class="inline-block bg-indigo-500 hover:bg-indigo-600 active:bg-indigo-700 focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Start now</a>

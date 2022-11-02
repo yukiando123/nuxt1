@@ -1,26 +1,12 @@
 <template>
-    <div >
-    <form>
-        <h1 class="h3">お問い合わせ</h1>
-        <div class="form-group">
-        <label>お名前</label>
-        <input type="text" class="form-control">
+<div class="bg-white py-6 sm:py-8 lg:py-12">
+    <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
+        <div class="mb-10 md:mb-16">
+            <h2 class="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-4 md:mb-6">CONTACT</h2>
+            <p class="max-w-screen-md text-gray-500 md:text-lg text-center mx-auto">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated.</p>
         </div>
-        <div class="form-group">
-        <label>Email address</label>
-        <input type="email" class="form-control">
-        </div>
-        <div class="form-group">
-        <label>件名</label>
-        <input type="text" class="form-control">
-        </div>
-        <div class="form-group">
-        <label>メッセージ</label>
-        <textarea class="form-control" rows="5"/>
-        </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
-    </form>
     </div>
+</div>
 </template>
 
 <script>

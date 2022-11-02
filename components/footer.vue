@@ -15,7 +15,7 @@
         </div>
         <!-- logo - end -->
 
-        <p class="text-gray-500 sm:pr-8 mb-6">Filler text is dummy text which has no meaning however looks very similar to real text.</p>
+        <p class="text-gray-500 sm:pr-8 mb-6">Thank you for visiting my page.<br>I hope you have a nice day.</p>
 
         <!-- social - start -->
         <div class="flex gap-4">
@@ -52,19 +52,61 @@
 
         <nav class="flex flex-col gap-4">
           <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Overview</a>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">New Koenji</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Solutions</a>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Yu-And</a>
+          </div>
+
+        </nav>
+      </div>
+      <!-- nav - end -->
+
+      <!-- nav - start -->
+      <div>
+        <div class="text-gray-800 font-bold tracking-widest uppercase mb-4">Company & Organization</div>
+
+        <nav class="flex flex-col gap-4">
+          <div>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">TORAT</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Pricing</a>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">D-Lepus</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Customers</a>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">JCBI</a>
+          </div>
+
+          <div>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">JBA</a>
+          </div>
+
+        </nav>
+      </div>
+      <!-- nav - end -->
+
+      <!-- nav - start -->
+      <div>
+        <div class="text-gray-800 font-bold tracking-widest uppercase mb-4">Category</div>
+
+        <nav class="flex flex-col gap-4">
+          <div>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Web Desgin</a>
+          </div>
+
+          <div>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Graphic Design</a>
+          </div>
+
+          <div>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Web Service</a>
+          </div>
+
+          <div>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Logo Design</a>
           </div>
         </nav>
       </div>
@@ -72,71 +114,19 @@
 
       <!-- nav - start -->
       <div>
-        <div class="text-gray-800 font-bold tracking-widest uppercase mb-4">Company</div>
+        <div class="text-gray-800 font-bold tracking-widest uppercase mb-4">Local</div>
 
         <nav class="flex flex-col gap-4">
           <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">About</a>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Kagawa</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Investor Relations</a>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Mitoyo City</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Jobs</a>
-          </div>
-
-          <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Press</a>
-          </div>
-
-          <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Blog</a>
-          </div>
-        </nav>
-      </div>
-      <!-- nav - end -->
-
-      <!-- nav - start -->
-      <div>
-        <div class="text-gray-800 font-bold tracking-widest uppercase mb-4">Support</div>
-
-        <nav class="flex flex-col gap-4">
-          <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Contact</a>
-          </div>
-
-          <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Documentation</a>
-          </div>
-
-          <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Chat</a>
-          </div>
-
-          <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">FAQ</a>
-          </div>
-        </nav>
-      </div>
-      <!-- nav - end -->
-
-      <!-- nav - start -->
-      <div>
-        <div class="text-gray-800 font-bold tracking-widest uppercase mb-4">Legal</div>
-
-        <nav class="flex flex-col gap-4">
-          <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Terms of Service</a>
-          </div>
-
-          <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Privacy Policy</a>
-          </div>
-
-          <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Cookie settings</a>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Koenji</a>
           </div>
         </nav>
       </div>
@@ -147,9 +137,3 @@
   </footer>
 </div>
 </template>
-
-<style>
-.nuxt-logo {
-  height: 180px;
-}
-</style>

@@ -15,7 +15,7 @@
       <!-- nav - start -->
       <nav class="hidden lg:flex gap-12">
       <nuxt-link class="btn btn-primary btn-lg" to="/contact">お問い合わせ</nuxt-link>
-        <nuxt-link to="/" class="text-teal-500 text-lg font-semibold">All</nuxt-link>
+        <nuxt-link to="/" class="text-indigo-500 text-lg font-semibold">All</nuxt-link>
         <nuxt-link to="/webdesign" class="text-gray-600 hover:text-cyan-500 active:text-indigo-700 text-lg font-semibold transition duration-100">Web Design</nuxt-link>
         <nuxt-link to="/" class="text-gray-600 hover:text-indigo-500 active:text-indigo-700 text-lg font-semibold transition duration-100">Logo</nuxt-link>
         <nuxt-link to="/" class="text-gray-600 hover:text-indigo-500 active:text-indigo-700 text-lg font-semibold transition duration-100">Graphic</nuxt-link>
