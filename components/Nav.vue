@@ -8,22 +8,22 @@
           <path d="M96 0V47L48 94H0V47L48 0H96Z" />
         </svg>
 
-        Projects
+        My Projects
       </nuxt-link>
       <!-- logo - end -->
 
       <!-- nav - start -->
       <nav class="hidden lg:flex gap-12">
         <router-link to="/" class="text-gray-600 hover:text-teal-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-teal-500" exact>All</router-link>
-        <nuxt-link to="/webdesign" class="text-gray-600 hover:text-teal-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-teal-500">Web Design</nuxt-link>
-        <nuxt-link to="/logo" class="text-gray-600 hover:text-teal-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-teal-500">Logo</nuxt-link>
-        <nuxt-link to="/graphic" class="text-gray-600 hover:text-teal-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-teal-500">Graphic</nuxt-link>
-        <nuxt-link to="/cording" class="text-gray-600 hover:text-teal-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-teal-500">Cording</nuxt-link>
+        <router-link to="/webdesign" class="text-gray-600 hover:text-teal-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-teal-500">Web Design</router-link>
+        <router-link to="/logo" class="text-gray-600 hover:text-teal-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-teal-500">Logo</router-link>
+        <router-link to="/graphic" class="text-gray-600 hover:text-teal-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-teal-500">Graphic</router-link>
+        <router-link to="/cording" class="text-gray-600 hover:text-teal-500 text-lg font-semibold transition duration-100 text-lg font-semibold" active-class="text-teal-500">Cording</router-link>
       </nav>
       <!-- nav - end -->
 
       <!-- buttons - start -->
-      <nuxt-link to="/contact" class="hidden lg:inline-block bg-gray-200 hover:bg-gray-300 focus-visible:ring ring-indigo-300 text-gray-500 active:text-gray-700 text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Contact</nuxt-link>
+      <router-link to="/contact" class="hidden lg:inline-block bg-gray-200 hover:bg-gray-300 focus-visible:ring ring-indigo-300 text-gray-500 active:text-gray-700 text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Contact</router-link>
 
       <button type="button" class="inline-flex items-center lg:hidden bg-gray-200 hover:bg-gray-300 focus-visible:ring ring-indigo-300 text-gray-500 active:text-gray-700 text-sm md:text-base font-semibold rounded-lg gap-2 px-2.5 py-2">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 20 20" fill="currentColor">
@@ -60,3 +60,14 @@
   </div>
 </div>
 </template>
+
+<script>
+export default {
+  props: {
+    title: {
+      type: String,
+      default: ''
+    }
+  }
+}
+</script>
