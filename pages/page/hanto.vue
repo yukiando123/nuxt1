@@ -7,7 +7,7 @@
         <div class="max-w-screen-lg px-4 md:px-8 mx-auto">
         <div class="text-gray-800 text-lg font-semibold mb-3">Description</div>
             <p class="text-gray-500">
-            日本の半島を紹介するWebメディア「半島は日本の台所」<br>
+            日本半島紹介するWebメディア「半島は日本の台所」<br>
 
             This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated.
             </p>
