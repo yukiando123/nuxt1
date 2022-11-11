@@ -43,6 +43,12 @@
             </td>
         </tr>
         <tr>
+          <th class="border px-4 py-2">Design Tool</th>
+          <td class="border px-4 py-2">
+            XD
+          </td>
+        </tr>
+        <tr>
             <th class="border px-4 py-2">Details</th>
             <td class="border px-4 py-2">PHP, HTML, CSS, WordPress, AWS</td>
         </tr>
