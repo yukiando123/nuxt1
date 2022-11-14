@@ -17,6 +17,12 @@
     <Summer />
     <Catbo />
     <Yokohama />
+    <Newkoenji />
+    <Yokohamasho />
+    <Torat />
+    <Sakoku />
+    <Dlepus />
+    <Ccat />
 
     </div>
     </div>
@@ -30,6 +36,13 @@ import HantoNew from '@/components/list/HantoNew.vue';
 import Summer from '@/components/list/Summer.vue';
 import Catbo from '@/components/list/Catbo.vue';
 import Yokohama from '@/components/list/Yokohama.vue';
+import Newkoenji from '@/components/list/Newkoenji.vue';
+import Torat from '@/components/list/Torat.vue';
+import Sakoku from '@/components/list/Sakoku.vue';
+import Dlepus from '@/components/list/Dlepus.vue';
+import Yokohamasho from '@/components/list/Yokohamasho.vue';
+import Ccat from '@/components/list/Ccat.vue';
+
 
 export default {
   layout: 'layout',
@@ -39,7 +52,13 @@ export default {
     HantoNew,
     Summer,
     Catbo,
-    Yokohama
+    Yokohama,
+    Newkoenji,
+    Torat,
+    Sakoku,
+    Dlepus,
+    Yokohamasho,
+    Ccat
   }
 }
 </script>
