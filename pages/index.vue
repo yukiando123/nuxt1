@@ -23,6 +23,7 @@
     <Sakoku />
     <Dlepus />
     <Ccat />
+    <Kurofune />
 
     </div>
     </div>
@@ -42,6 +43,7 @@ import Sakoku from '@/components/list/Sakoku.vue';
 import Dlepus from '@/components/list/Dlepus.vue';
 import Yokohamasho from '@/components/list/Yokohamasho.vue';
 import Ccat from '@/components/list/Ccat.vue';
+import Kurofune from '@/components/list/Kurofune.vue';
 
 
 export default {
@@ -58,7 +60,8 @@ export default {
     Sakoku,
     Dlepus,
     Yokohamasho,
-    Ccat
+    Ccat,
+    Kurofune
   }
 }
 </script>
