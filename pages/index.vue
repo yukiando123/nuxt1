@@ -24,6 +24,7 @@
     <Dlepus />
     <Ccat />
     <Kurofune />
+    <Toratshop />
 
     </div>
     </div>
@@ -44,6 +45,7 @@ import Dlepus from '@/components/list/Dlepus.vue';
 import Yokohamasho from '@/components/list/Yokohamasho.vue';
 import Ccat from '@/components/list/Ccat.vue';
 import Kurofune from '@/components/list/Kurofune.vue';
+import Toratshop from '@/components/list/Toratshop.vue';
 
 
 export default {
@@ -61,7 +63,8 @@ export default {
     Dlepus,
     Yokohamasho,
     Ccat,
-    Kurofune
+    Kurofune,
+    Toratshop
   }
 }
 </script>
