@@ -25,6 +25,7 @@
 </div>
 </template>
 
+<meta name="google-site-verification" content="m404Pa4K2ilOuaMzDM4M6XlQ_WugRlTskSPKeir9HM0" />
 <script>
 export default {
   props: {
