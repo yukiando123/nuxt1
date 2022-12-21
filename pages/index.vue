@@ -13,18 +13,20 @@
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-x-4 md:gap-x-6 gap-y-8">
 
     <Hanto />
-    <HantoNew />
+    <!--<HantoNew />-->
     <Summer />
-    <Catbo />
-    <Yokohama />
+    <!--<Catbo />-->
+    <!--<Yokohama />-->
     <Newkoenji />
-    <Yokohamasho />
+    <!--<Yokohamasho />-->
     <Torat />
     <Sakoku />
     <Dlepus />
-    <Ccat />
+    <!--<Ccat />-->
     <Kurofune />
     <Toratshop />
+    <Hdelicious />
+    <Shizuku />
 
     </div>
     </div>
@@ -46,6 +48,8 @@ import Yokohamasho from '@/components/list/Yokohamasho.vue';
 import Ccat from '@/components/list/Ccat.vue';
 import Kurofune from '@/components/list/Kurofune.vue';
 import Toratshop from '@/components/list/Toratshop.vue';
+import Hdelicious from '@/components/list/Hdelicious.vue';
+import Shizuku from '@/components/list/Shizuku.vue';
 
 
 export default {
@@ -64,7 +68,9 @@ export default {
     Yokohamasho,
     Ccat,
     Kurofune,
-    Toratshop
+    Toratshop,
+    Shizuku,
+    Hdelicous
   }
 }
 </script>
