@@ -14,7 +14,7 @@
 
     <Hanto />
     <!--<HantoNew />-->
-    <Summer />
+    <!--<<Summer />-->
     <!--<Catbo />-->
     <!--<Yokohama />-->
     <Newkoenji />
@@ -70,7 +70,7 @@ export default {
     Kurofune,
     Toratshop,
     Shizuku,
-    Hdelicous
+    Hdelicious
   }
 }
 </script>
