@@ -1,6 +1,6 @@
 <template>
     <div>
-        <nuxt-link to="/page/hanto" class="group h-100 block rounded-lg overflow-hidden shadow-lg relative mb-2 lg:mb-3">
+        <nuxt-link to="/page/toratshop/" class="group h-100 block rounded-lg overflow-hidden shadow-lg relative mb-2 lg:mb-3">
             <img src="~/assets/projects/torat-shop-thum.jpg" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-center group-hover:scale-110 transition duration-200" />
         </nuxt-link>
 

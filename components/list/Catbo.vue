@@ -1,6 +1,6 @@
 <template>
     <div>
-        <nuxt-link to="/page/summer" class="group h-100 block rounded-lg overflow-hidden shadow-lg relative mb-2 lg:mb-3">
+        <nuxt-link to="/page/catbo/" class="group h-100 block rounded-lg overflow-hidden shadow-lg relative mb-2 lg:mb-3">
             <img src="~/assets/projects/catbo-thum.jpg" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-center group-hover:scale-110 transition duration-200" />
         </nuxt-link>
 

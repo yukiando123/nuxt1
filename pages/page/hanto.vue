@@ -8,8 +8,7 @@
         <div class="text-gray-800 text-lg font-semibold mb-3">Description</div>
             <p class="text-gray-500">
             日本半島紹介するWebメディア「半島は日本の台所」<br>
-
-            This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated.
+            わが国の半島の食文化を新発見するために誕生した、“半島応援メディア”。半島地域の自治体にもご協力いただきながら新鮮で、美味しくて、おしゃれ…いままで知らなかった半島の食の魅力を、多方面からたっぷりお届けします。
             </p>
         </div>
         </div>
@@ -19,38 +18,38 @@
     <table class="table-auto text-left w-full">
     <thead>
         <tr>
-            <th class="border px-4 py-2">Title</th>
+            <th class="border px-4 py-2">タイトル</th>
             <td class="border px-4 py-2">半島は日本の台所</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <th class="border px-4 py-2">Cliant</th>
+            <th class="border px-4 py-2">クライアント</th>
             <td class="border px-4 py-2">光文社様</td>
         </tr>
         <tr>
-            <th class="border px-4 py-2">Link</th>
+            <th class="border px-4 py-2">リンク</th>
             <td class="border px-4 py-2">https://japan-hanto.com</td>
         </tr>
         <tr>
             <th class="border px-4 py-2">Scale</th>
-            <td class="border px-4 py-2">3,000,000~</td>
+            <td class="border px-4 py-2">3,000,000~, 社内メンバー4名, クライアント先担当2名</td>
         </tr>
         <tr>
-            <th class="border px-4 py-2">in charge of</th>
+            <th class="border px-4 py-2">担当</th>
             <td class="border px-4 py-2">
-            Project management, Site design, Site cording, Function development
+            プロジェクトリーダー、要件定義、サイトデザイン、ロゴデザイン、サイトコーディング、機能開発(WordPress：特定記事の投稿、半島の管理、フィールドの追加等)
             </td>
         </tr>
         <tr>
-          <th class="border px-4 py-2">Design Tool</th>
+          <th class="border px-4 py-2">使用ツール</th>
           <td class="border px-4 py-2">
-            XD
+            Illustrator, XD, github, VScode
         </td>
         </tr>
         <tr>
-            <th class="border px-4 py-2">Details</th>
-            <td class="border px-4 py-2">PHP, HTML, CSS, WordPress, AWS</td>
+            <th class="border px-4 py-2">技術スタック</th>
+            <td class="border px-4 py-2">PHP, HTML, CSS, JavaScript, WordPress, AWS</td>
         </tr>
         </tbody>
     </table>
@@ -59,23 +58,25 @@
 
     <div class="bg-white py-6 sm:py-8 lg:py-12">
     <div class="max-w-screen-lg px-4 md:px-8 mx-auto">
-    <div class="overflow-hidden mb-5 shadow-lg">
+    <!--<div class="overflow-hidden mb-5 shadow-lg">
         <img src="~/assets/projects/hanto.jpg" loading="lazy" alt="Photo by Fakurian Design">
-    </div>
+    </div>-->
 
-        <div class="grid md:grid-cols-2 gap-8">
+      <div class="grid md:grid-cols-2 gap-8">
         <div class="space-y-4">
+        <h3>mockup 1（採用）</h3>
         <div class="bg-gray-100 overflow-hidden shadow-lg">
             <img src="~/assets/projects/hanto2.jpg" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full object-cover object-center" />
         </div>
       </div>
-        <div class="">
-        <div class="bg-gray-100 overflow-hidden shadow-lg">
-            <img src="~/assets/projects/hanto3.jpg" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full object-cover object-center" />
-        </div>
 
+        <div class="space-y-4">
+          <h3>mockup 2</h3>
+          <div class="bg-gray-100 overflow-hidden shadow-lg">
+              <img src="~/assets/projects/hanto3.jpg" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full object-cover object-center" />
+          </div>
       </div>
-        </div>
+    </div>
 </div>
 
 
