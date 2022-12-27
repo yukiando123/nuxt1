@@ -53,6 +53,15 @@
             <th class="border px-4 py-2">技術スタック</th>
             <td class="border px-4 py-2">HTML, SCSS, JavaScript, WordPress</td>
         </tr>
+        <tr>
+            <th class="border px-4 py-2">Abstract</th>
+            <td class="border px-4 py-2"><h3 class="font-bold text-lg">暮らしと、この街と、カルチャーをデザインする</h3>
+            デザインをかけ合わせてあたらしい価値をつくりたい。<br>
+デザインは、「暮らし」をよりよくしていくための思考と実践。<br>
+ゆたかな暮らしを思い描き、そこにある問題に対して考え、より良いよい形をつくりだしていくあり方。<br>
+「暮らし」の中で生まれてきた高円寺カルチャーを、その気質や個性とともに暮らしの中に届けていきたい。<br>
+それが、わたしたちの役割だと考えています。</td>
+        </tr>
         </tbody>
     </table>
     </div>

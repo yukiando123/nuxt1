@@ -52,11 +52,11 @@
 
         <nav class="flex flex-col gap-4">
           <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">New Koenji</a>
+            <a href="https://new-koenji.com/" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">New Koenji</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Yu-And</a>
+            <a href="https://yu-and.com/" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Yu-And</a>
           </div>
 
         </nav>
@@ -94,19 +94,19 @@
 
         <nav class="flex flex-col gap-4">
           <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Web Desgin</a>
+            <nuxt-link to="/webdesign/" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Web Desgin</nuxt-link>
           </div>
 
           <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Graphic Design</a>
+            <nuxt-link to="/logo/" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Logo Design</nuxt-link>
           </div>
 
           <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Web Service</a>
+            <nuxt-link to="/graphic/" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Graphic Design</nuxt-link>
           </div>
 
           <div>
-            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Logo Design</a>
+            <nuxt-link to="/cording/" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Cording</nuxt-link>
           </div>
         </nav>
       </div>

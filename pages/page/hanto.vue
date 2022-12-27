@@ -29,7 +29,7 @@
         </tr>
         <tr>
             <th class="border px-4 py-2">リンク</th>
-            <td class="border px-4 py-2">https://japan-hanto.com</td>
+            <td class="border px-4 py-2">https://japan-hanto.com/</td>
         </tr>
         <tr>
             <th class="border px-4 py-2">Scale</th>

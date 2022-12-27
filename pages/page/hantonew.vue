@@ -29,7 +29,7 @@
         </tr>
         <tr>
             <th class="border px-4 py-2">Link</th>
-            <td class="border px-4 py-2">https://japan-hanto.com</td>
+            <td class="border px-4 py-2">https://japan-hanto.com/</td>
         </tr>
         <tr>
             <th class="border px-4 py-2">Scale</th>
@@ -58,9 +58,8 @@
 
     <div class="bg-white py-6 sm:py-8 lg:py-12">
     <div class="max-w-screen-lg px-4 md:px-8 mx-auto">
-    <h3>mockup 1（採用）</h3>
     <div class="overflow-hidden mb-5 shadow-lg">
-        <img src="~/assets/projects/hanto-new2.jpg" loading="lazy" alt="Photo by Fakurian Design">
+        <img src="~/assets/projects/hanto-new.jpg" loading="lazy" alt="Photo by Fakurian Design">
     </div>
     </div>
     </div>

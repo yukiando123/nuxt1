@@ -6,7 +6,7 @@
 
         <div class="gap-2 px-2">
             <div class="flex flex-col">
-            <a href="#" class="text-gray-800 hover:text-gray-500 text-lg lg:text-xl font-bold transition duration-100">株式会社TORAT Logo</a>
+            <a href="#" class="text-gray-800 hover:text-gray-500 text-lg lg:text-xl font-bold transition duration-100">株式会社TORAT</a>
             <span class="text-gray-500">株式会社TORAT</span>
         </div>
 

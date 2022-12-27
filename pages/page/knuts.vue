@@ -49,7 +49,7 @@
         </tr>
         <tr>
             <th class="border px-4 py-2">技術スタック</th>
-            <td class="border px-4 py-2">EC-CUBE, PHP, HTML, CSS, JavaScript</td>
+            <td class="border px-4 py-2">EC-CUBE, PHP, HTML, CSS, JavaScript, GCP</td>
         </tr>
         </tbody>
     </table>

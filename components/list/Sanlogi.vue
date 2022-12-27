@@ -6,7 +6,7 @@
 
         <div class="gap-2 px-2">
             <div class="flex flex-col">
-            <a href="#" class="text-gray-800 hover:text-gray-500 text-lg lg:text-xl font-bold transition duration-100">サン・ロジスティクス株式会社コーポレートサイト</a>
+            <a href="#" class="text-gray-800 hover:text-gray-500 text-lg lg:text-xl font-bold transition duration-100">サン・ロジスティクス株式会社</a>
             <span class="text-gray-500">サン・ロジスティクス株式会社</span>
         </div>
 
