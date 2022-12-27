@@ -40,7 +40,7 @@
         <tr>
             <th class="border px-4 py-2">担当</th>
             <td class="border px-4 py-2">
-            サイトデザイン、サイトコーディング
+            サイトデザイン、サイトコーディング、コピーライティング
             </td>
         </tr>
         <tr>
@@ -59,14 +59,32 @@
 
 
     <div class="bg-white py-6 sm:py-8 lg:py-12">
-    <div class="max-w-screen-lg px-4 md:px-8 mx-auto">
-    <div class="overflow-hidden mb-5 shadow-lg">
-        <img src="~/assets/projects/new-koenji.jpg" loading="lazy" alt="Photo by Fakurian Design">
+        <div class="max-w-screen-lg px-4 md:px-8 mx-auto">
+            <div class="grid md:grid-cols-2 gap-8 mb-10">
+                <div class="space-y-4">
+                    <div class="bg-gray-100 overflow-hidden shadow-lg">
+                        <img src="~/assets/projects/new-koenji.jpg" loading="lazy" alt="Photo by Fakurian Design">
+                    </div>
+                </div>
+                <div class="grid md:grid-cols-2 gap-8">
+                    <div class="space-y-4">
+                        <div class="bg-gray-100 overflow-hidden shadow-lg">
+                            <img src="~/assets/projects/new-koenji-sp.jpg" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full object-cover object-center" />
+                        </div>
+                    </div>
+                    <div class="">
+                        <div class="bg-gray-100 overflow-hidden shadow-lg">
+                            <img src="~/assets/projects/new-koenji-hum.jpg" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full  shadow-lg" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
-    </div>
-</div>
+
+
 </template>
 
 <script>

@@ -62,18 +62,44 @@
         <img src="~/assets/projects/hanto.jpg" loading="lazy" alt="Photo by Fakurian Design">
     </div>-->
 
-      <div class="grid md:grid-cols-2 gap-8">
+    <div class="grid md:grid-cols-2 gap-8 mb-10">
         <div class="space-y-4">
         <div class="bg-gray-100 overflow-hidden shadow-lg">
             <img src="~/assets/projects/catbo1.jpg" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full object-cover object-center" />
         </div>
-      </div>
+    </div>
 
+    <div class="space-y-4">
+        <div class="bg-gray-100 overflow-hidden shadow-lg">
+            <img src="~/assets/projects/catbo2.png" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full object-cover object-center" />
+        </div>
+    </div>
+    </div>
+
+    <div class="grid md:grid-cols-2 gap-8 mb-10">
         <div class="space-y-4">
-          <div class="bg-gray-100 overflow-hidden shadow-lg">
-              <img src="~/assets/projects/catbo2.png" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full object-cover object-center" />
-          </div>
-      </div>
+            <div class="bg-gray-100 overflow-hidden shadow-lg">
+                <img src="~/assets/projects/catbokaiin-thum.jpg" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full object-cover object-center" />
+            </div>
+        </div>
+        <div class="">
+            <div class="bg-gray-100 overflow-hidden shadow-lg">
+                <img src="~/assets/projects/catbopamph-thum.jpg" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full object-cover object-center" />
+            </div>
+        </div>
+    </div>
+
+        <div class="grid md:grid-cols-2 gap-8 mb-10">
+        <div class="space-y-4">
+            <div class="bg-gray-100 overflow-hidden shadow-lg">
+                <img src="~/assets/projects/catbopost-thum.jpg" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full object-cover object-center" />
+            </div>
+        </div>
+        <div class="">
+            <div class="bg-gray-100 overflow-hidden">
+                
+            </div>
+        </div>
     </div>
 </div>
 

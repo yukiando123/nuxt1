@@ -14,17 +14,24 @@
     <Kurofune />
     <Sakoku />
     <Hdelicious />
-    <Ccat />
-    <Catbo />
+    <Knuts />
+    <Yokohamasho />
     <Hanto />
+    <Hantologo />
+    <Catbokaiin />
+    <Ccat />
+    <Catbopamph />
+    <Kyushoku />
+    <Catbopost />
+    <Catbo />
     <Newkoenji />
+    <Sanlogi />
     <Shizuku />
     <Dlepus />
     <Toratshop />
     <Torat />
     <!--<Summer />-->
     <!--<Yokohama />-->
-    <!--<Yokohamasho />-->
 
     </div>
     </div>
@@ -48,6 +55,15 @@ import Kurofune from '@/components/list/Kurofune.vue';
 import Toratshop from '@/components/list/Toratshop.vue';
 import Hdelicious from '@/components/list/Hdelicious.vue';
 import Shizuku from '@/components/list/Shizuku.vue';
+import Kyushoku from '@/components/list/Kyushoku.vue';
+import Knuts from '@/components/list/Knuts.vue';
+import Sanlogi from '@/components/list/Sanlogi.vue';
+import Hantologo from '@/components/list/Hantologo.vue';
+import Catbopost from '@/components/list/Catbopost.vue';
+import Catbopamph from '@/components/list/Catbopamph.vue';
+import Catbokaiin from '@/components/list/Catbokaiin.vue';
+
+
 
 
 export default {
@@ -68,7 +84,14 @@ export default {
     Kurofune,
     Toratshop,
     Shizuku,
-    Hdelicious
+    Hdelicious,
+    Kyushoku,
+    Knuts,
+    Sanlogi,
+    Hantologo,
+    Catbopost,
+    Catbopamph,
+    Catbokaiin
   }
 }
 </script>

@@ -1,7 +1,7 @@
 <template>
     <div>
         <nuxt-link to="/page/dlepus/" class="group h-100 block rounded-lg overflow-hidden shadow-lg relative mb-2 lg:mb-3">
-            <img src="~/assets/projects/d-lepus-thum.jpg" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-center group-hover:scale-110 transition duration-200" />
+            <img src="~/assets/projects/dlepus-thum.jpg" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-center group-hover:scale-110 transition duration-200" />
         </nuxt-link>
 
         <div class="gap-2 px-2">
