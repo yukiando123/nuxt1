@@ -28,7 +28,7 @@
 
 <script>
 import Hanto from '@/components/list/Hanto.vue';
-import HantoNew from '@/components/list/HantoNew.vue';
+import Hantonew from '@/components/list/Hantonew.vue';
 import Summer from '@/components/list/Summer.vue';
 import Catbo from '@/components/list/Catbo.vue';
 import Yokohama from '@/components/list/Yokohama.vue';
@@ -46,7 +46,7 @@ export default {
     layout: 'layout',
     components:{
     Hanto,
-    HantoNew,
+    Hantonew,
     Catbo,
     Yokohama,
     Newkoenji,

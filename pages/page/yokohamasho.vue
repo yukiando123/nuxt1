@@ -76,17 +76,16 @@
         <div class="space-y-4">
         <div class="overflow-hidden">
         <div class="grid md:grid-cols-2 gap-8">
-        <div class="space-y-4">
-        <div class="overflow-hidden shadow-lg">
-            <img src="~/assets/projects/yokohamasho-sp1.jpg" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full  shadow-lg" />
-        </div>
-      </div>
-        <div class="">
-        <div class="bg-gray-100 overflow-hidden shadow-lg">
-            <img src="~/assets/projects/yokohamasho-sp2.jpg" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full  shadow-lg" />
-        </div>
-
-      </div>
+            <div class="space-y-4">
+                <div class="overflow-hidden shadow-lg">
+                    <img src="~/assets/projects/yokohamasho-sp1.jpg" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full  shadow-lg" />
+                </div>
+            </div>
+            <div class="">
+                <div class="bg-gray-100 overflow-hidden shadow-lg">
+                    <img src="~/assets/projects/yokohamasho-sp2.jpg" loading="lazy" alt="Photo by Himanshu Dewangan" class="w-full h-full  shadow-lg" />
+                </div>
+            </div>
         </div>
         </div>
       </div>
