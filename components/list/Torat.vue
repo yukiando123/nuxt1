@@ -1,7 +1,7 @@
 <template>
     <div>
         <nuxt-link to="/page/torat/" class="group h-100 block rounded-lg overflow-hidden shadow-lg relative mb-2 lg:mb-3">
-            <img src="~/assets/projects/torat-thum.jpg" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full group-hover:scale-110 transition duration-200" />
+            <img src="~/assets/projects/torat-hp.jpg" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full group-hover:scale-110 transition duration-200" />
         </nuxt-link>
 
         <div class="gap-2 px-2">
