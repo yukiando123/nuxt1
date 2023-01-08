@@ -27,6 +27,7 @@
     <Catbopost />
     <Catbo />
     <Newkoenji />
+    <Newkoenjilogo />
     <Sanlogi />
     <Shizuku />
     <Dlepuslogo />
@@ -53,6 +54,7 @@ import Summer from '@/components/list/Summer.vue';
 import Catbo from '@/components/list/Catbo.vue';
 import Yokohama from '@/components/list/Yokohama.vue';
 import Newkoenji from '@/components/list/Newkoenji.vue';
+import Newkoenjilogo from '@/components/list/Newkoenjilogo.vue';
 import Torat from '@/components/list/Torat.vue';
 import Toratlogo from '@/components/list/Toratlogo.vue';
 import Sakoku from '@/components/list/Sakoku.vue';
@@ -86,6 +88,7 @@ export default {
     Catbo,
     Yokohama,
     Newkoenji,
+    Newkoenjilogo,
     Torat,
     Sakoku,
     Dlepus,
