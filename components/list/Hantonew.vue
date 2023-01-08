@@ -7,7 +7,7 @@
         <div class="gap-2 px-2">
             <div class="flex flex-col">
             <a href="#" class="text-gray-800 hover:text-gray-500 text-lg lg:text-xl font-bold transition duration-100">Hanto New</a>
-            <span class="text-gray-500">株式会社光文社</span>
+            <span class="text-gray-500">光文社株式会社、日本航空日本航空、国土交通省</span>
         </div>
 
         </div>
