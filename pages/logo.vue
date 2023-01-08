@@ -13,7 +13,7 @@
                 <Sakoku />
                 <Hdelicious />
                 <Hantologo />
-                <Newkoenji />
+                <Newkoenjilogo />
                 <Shizuku />
                 <Dlepuslogo />
                 <Toratshoplogo />
@@ -29,7 +29,7 @@ import Kurofune from '@/components/list/Kurofune.vue';
 import Sakoku from '@/components/list/Sakoku.vue';
 import Hdelicious from '@/components/list/Hdelicious.vue';
 import Hantologo from '@/components/list/Hantologo.vue';
-import Newkoenji from '@/components/list/Newkoenji.vue';
+import Newkoenjilogo from '@/components/list/Newkoenjilogo.vue';
 import Shizuku from '@/components/list/Shizuku.vue';
 import Dlepuslogo from '@/components/list/Dlepuslogo.vue';
 import Toratshoplogo from '@/components/list/Toratshoplogo.vue';
