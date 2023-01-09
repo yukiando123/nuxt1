@@ -56,7 +56,7 @@
           </div>
 
           <div>
-            <a href="https://yu-and.com/" target="_blank" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Yu-And</a>
+            <a href="https://yu-and.com/" target="_blank"  class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Yu-And</a>
           </div>
 
         </nav>
@@ -69,19 +69,19 @@
 
         <nav class="flex flex-col gap-4">
           <div>
-            <a href="https://www.torat.jp/" target="_blank" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">TORAT</a>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">TORAT</a>
           </div>
 
           <div>
-            <a href="https://www.d-lepus.jp/" target="_blank" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">D-Lepus</a>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">D-Lepus</a>
           </div>
 
           <div>
-            <a href="https://www.japan-contents-blockchain-initiative.org/" target="_blank" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">JCBI</a>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">JCBI</a>
           </div>
 
           <div>
-            <a href="https://jba-web.jp/" target="_blank" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">JBA</a>
+            <a href="#" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">JBA</a>
           </div>
 
         </nav>
