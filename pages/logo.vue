@@ -42,7 +42,7 @@ export default {
         Sakoku,
         Hdelicious,
         Hantologo,
-        Newkoenji,
+        Newkoenjilogo,
         Shizuku,
         Dlepuslogo,
         Toratshoplogo,
