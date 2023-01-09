@@ -36,7 +36,7 @@ import Toratshoplogo from '@/components/list/Toratshoplogo.vue';
 import Toratlogo from '@/components/list/Toratlogo.vue';
 
 export default {
-    layout: 'layout',
+    layout: 'sub',
     components:{
         Kurofune,
         Sakokulogo,

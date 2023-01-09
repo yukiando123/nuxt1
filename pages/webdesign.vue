@@ -49,7 +49,7 @@ import Knuts from '@/components/list/Knuts.vue';
 import Sanlogi from '@/components/list/Sanlogi.vue';
 
 export default {
-    layout: 'layout',
+    layout: 'sub',
     components:{
     Hanto,
     Hantonew,

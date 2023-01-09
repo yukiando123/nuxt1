@@ -44,7 +44,7 @@ import Toratshop from '@/components/list/Toratshop.vue';
 import Knuts from '@/components/list/Knuts.vue';
 
 export default {
-    layout: 'layout',
+    layout: 'sub',
     components:{
     Hanto,
     Hantonew,

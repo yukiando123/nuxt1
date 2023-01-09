@@ -23,7 +23,7 @@ import Catbopost from '@/components/list/Catbopost.vue';
 import Catbopamph from '@/components/list/Catbopamph.vue';
 import Catbokaiin from '@/components/list/Catbokaiin.vue';
 export default {
-    layout: 'layout',
+    layout: 'sub',
     components:{
         Catbopost,
         Catbopamph,
