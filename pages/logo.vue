@@ -10,7 +10,7 @@
     <!-- text - end -->
             <div class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-x-4 md:gap-x-6 gap-y-8">
                 <Kurofune />
-                <Sakoku />
+                <Sakokulogo />
                 <Hdelicious />
                 <Hantologo />
                 <Newkoenjilogo />
@@ -26,7 +26,7 @@
 
 <script>
 import Kurofune from '@/components/list/Kurofune.vue';
-import Sakoku from '@/components/list/Sakoku.vue';
+import Sakokulogo from '@/components/list/Sakokulogo.vue';
 import Hdelicious from '@/components/list/Hdelicious.vue';
 import Hantologo from '@/components/list/Hantologo.vue';
 import Newkoenjilogo from '@/components/list/Newkoenjilogo.vue';
@@ -39,7 +39,7 @@ export default {
     layout: 'layout',
     components:{
         Kurofune,
-        Sakoku,
+        Sakokulogo,
         Hdelicious,
         Hantologo,
         Newkoenjilogo,
