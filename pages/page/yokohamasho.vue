@@ -8,7 +8,7 @@
         <div class="text-gray-800 text-lg font-semibold mb-3">Description</div>
             <p class="text-gray-500">
             横浜市小学校給食注文サイト<br>
-            2020年より、横浜市内の小学校給食を担当している各給食センターの大規模改修に伴い、随時給食が提供できなくなるため、その期間
+            2020年より、横浜市内の小学校給食を担当している各給食センターの大規模改修に伴い、随時給食が提供できなくなるため、その期間中代理として横浜市中学校給食で提供しているお弁当を注文できるように、横浜市小学校給食のサイトを新設。
             </p>
         </div>
         </div>
@@ -19,7 +19,7 @@
     <thead>
         <tr>
             <th class="border px-4 py-2">タイトル</th>
-            <td class="border px-4 py-2">横浜市中学校給食</td>
+            <td class="border px-4 py-2">横浜市小学校給食</td>
         </tr>
     </thead>
     <tbody>

@@ -18,6 +18,7 @@
                 <Ccat />
                 <Catbo />
                 <Newkoenji />
+                <Yokohama />
                 <Dlepus />
                 <Toratshop />
                 <Torat />

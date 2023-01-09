@@ -20,6 +20,7 @@
                 <Catbo />
                 <Newkoenji />
                 <Sanlogi />
+                <Yokohama />
                 <Dlepus />
                 <Toratshop />
                 <Torat />

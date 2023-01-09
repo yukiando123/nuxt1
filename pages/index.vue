@@ -29,6 +29,7 @@
     <Newkoenji />
     <Newkoenjilogo />
     <Sanlogi />
+    <Yokohama />
     <Shizuku />
     <Dlepuslogo />
     <Dlepus />
@@ -39,7 +40,6 @@
     <Toratlogo />
     <Torat />
     <!--<Summer />-->
-    <!--<Yokohama />-->
 
     </div>
     </div>
