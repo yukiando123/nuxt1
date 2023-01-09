@@ -50,6 +50,10 @@ SAKOKU NFTマーケットプレイス
             <th class="border px-4 py-2">技術スタック</th>
             <td class="border px-4 py-2">Laravel, Solidity, SCSS</td>
         </tr>
+        <tr>
+            <th class="border px-4 py-2">Features</th>
+            <td class="border px-4 py-2">polygon chain, EVM, ERC721, EIP2981</td>
+        </tr>
         </tbody>
     </table>
     </div>

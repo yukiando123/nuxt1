@@ -50,6 +50,10 @@ KUROFUNE NFTマーケットプレイス
             <th class="border px-4 py-2">技術スタック</th>
             <td class="border px-4 py-2">React, Next.js, Solidity</td>
         </tr>
+        <tr>
+            <th class="border px-4 py-2">Features</th>
+            <td class="border px-4 py-2">Ethereum chain, EVM, ERC721</td>
+        </tr>
         </tbody>
     </table>
     </div>
